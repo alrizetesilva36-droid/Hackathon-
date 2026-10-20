@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    'Hackathon- projeto-final.onrender.com',
+    'hackathon-projeto-final.onrender.com',
 ]
 
 
